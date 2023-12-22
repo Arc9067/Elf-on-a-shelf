@@ -40,7 +40,7 @@ function About() {
               Whether you go along with the tradition for your daughter or son,
               there’s plenty of memories to be made with Jolly that’s fun.
             </p>
-            <a href="" className="w-[181px] h-[52px] block relative">
+            <a href="https://t.me/JollyTheElf" className="w-[181px] h-[52px] block relative">
               <div className="w-[173px] h-11 left-[8px] top-[8px] absolute bg-yellow-400" />
               <div className="w-[177px] px-6 py-3.5 left-0 top-0 absolute bg-red-600 border border-red-600 justify-center items-center gap-2.5 inline-flex">
                 <div className="text-white text-base font-bold font-['Space Grotesk']">
