@@ -20,10 +20,10 @@ function Footer() {
             Reserved.
           </p>
           <div className="flex items-center gap-3">
-            <a href="https://t.me/GROKonTABS">
+            <a href="https://t.me/JollyTheElf">
               <img src={telegram} alt="telegram icon" />
             </a>
-            <a href="https://twitter.com/GROKonLSD">
+            <a href="https://twitter.com/">
               <img src={twitter} alt="twitter icon" />
             </a>
             <a href="">
